@@ -97,7 +97,7 @@ object MrnType {
     case "P5F" =>
       P5FinalMrn
     case x =>
-      throw new IllegalArgumentException(s"$x must be one of P4, P5T or P5F")
+      throw new IllegalArgumentException(s"Argument '$x' must be one of P4, P5T or P5F")
   }
 
   private case object P4Mrn extends MrnType {
