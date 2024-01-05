@@ -1,5 +1,0 @@
-[0m[[0m[33mwarn[0m] [0m[0m/Users/jack.heslop/Documents/Projects/mrn-generator/src/main/scala/Main.scala:3:40: match may not be exhaustive.[0m
-[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: List(_, _, _)[0m
-[0m[[0m[33mwarn[0m] [0m[0m  private val mrns: Seq[String] = args.toList match {[0m
-[0m[[0m[33mwarn[0m] [0m[0m                                       ^[0m
-[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
